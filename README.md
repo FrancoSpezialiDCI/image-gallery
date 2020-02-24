@@ -44,3 +44,9 @@ Hint: [https://developer.mozilla.org/en-US/docs/Web/CSS/:hover](https://develope
 Use the css property "opacity" to change the opacity of the hovered element.
 
 Hint: [https://developer.mozilla.org/en-US/docs/Web/CSS/opacity](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)
+
+## Result
+
+Your result should look something like this:
+
+![Sample result](sample_result.png)
