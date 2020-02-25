@@ -21,8 +21,11 @@ Hint: [https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type](https:/
 4. Using only CSS, resize the images so that only 3 images per line are displayed.
 
 Hints:
+
     i. You will need to use `inline-block`
+    
     ii. You will need to set the CSS property `width` in more than one place!
+    
     iii. You will need to employ the use of some math!
 
 Bonus tasks
